@@ -10,6 +10,9 @@ The **Chess AI** project implements a simple chess algorithm utilizing alpha-bet
 - **Search Depth**: Adjust the search depth for the AI’s decision-making process.
 - **Move History**: Keeps track of previous moves for review.
 
+![image](https://github.com/user-attachments/assets/a33b41cc-3f76-47eb-bdfb-7ce53693a431)
+
+
 ## Technologies Used
 
 - **HTML**: For the structure of the application.
